@@ -8,7 +8,7 @@ Prayer times sample app uses json data from server xhanch.com/xhanch-api-islamic
 
 
 ## Url format:
-http://api.xhanch.com/islamic-get-prayer-time.php?lng=<longitude>&lat=<latitude>&yy=<year>&mm=<month>&gmt=<gmt>&m=<mode>
+http://api.xhanch.com/islamic-get-prayer-time.php?lng=longitude&lat=latitude&yy=year&mm=month&gmt=gmt&m=mode
 
     <longitude>; required; longitude coordinate of a location
     <latitude>; required; latitude coordinate of a location
